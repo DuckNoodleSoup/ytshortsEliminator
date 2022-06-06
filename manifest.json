@@ -1,0 +1,14 @@
+{
+    "name": "Youtube Shorts Eliminator",
+    "description": "Youtube shorts looks AWFUL on desktop. It looks so bad, that I made a chrome extension to redirect it.",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+        
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    }
+}
