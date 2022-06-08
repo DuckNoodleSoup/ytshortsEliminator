@@ -6,7 +6,8 @@
     "permissions": [
         "webRequest",
         "webRequestBlocking",
-        "<all_urls>"   ],
+        "*://youtube.com/*",
+        "*://www.youtube.com/*"   ],
     "background": {
         "scripts": [
             "background.js"
